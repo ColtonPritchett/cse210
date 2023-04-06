@@ -1,0 +1,67 @@
+{
+  "notebooks": [
+    {
+      "notes": [
+        {
+          "$type": "base",
+          "topic": "charity",
+          "note": "it\u0027s good"
+        },
+        {
+          "$type": "base",
+          "topic": "my brain aneurysm",
+          "note": "this is the newer note"
+        },
+        {
+          "$type": "base",
+          "topic": null,
+          "note": null
+        },
+        {
+          "$type": "verse",
+          "reference": "Moroni 1:1-2",
+          "topic": "Records",
+          "note": "This is very interestingI wonder where this project will endI love these verses"
+        }
+      ],
+      "name": "name"
+    },
+    {
+      "notes": [
+        {
+          "$type": "base",
+          "topic": "sin",
+          "note": "it\u0027s bad"
+        },
+        {
+          "$type": "verse",
+          "reference": null,
+          "topic": null,
+          "note": null
+        },
+        {
+          "$type": "verse",
+          "reference": null,
+          "topic": null,
+          "note": null
+        }
+      ],
+      "name": "name2"
+    },
+    {
+      "notes": null,
+      "name": null
+    },
+    {
+      "notes": [
+        {
+          "$type": "verse",
+          "reference": "1 Nephi 1:1",
+          "topic": "Parents",
+          "note": "parents are cool\nits a hrad job\nI don\u0027t envy them\n"
+        }
+      ],
+      "name": "name3"
+    }
+  ]
+}
